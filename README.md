@@ -1,5 +1,5 @@
 # Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination
-## Srinivasan et al., CVPR 2020
+## Pratul P. Srinivasan, Ben Mildenhall, Matthew Tancik, Jonathan T. Barron, Richard Tucker, Noah Snavely, CVPR 2020
 
 This release contains code for predicting incident illumination at any 3D
 location within a scene. The algorithm takes a narrow-baseline stereo pair of
